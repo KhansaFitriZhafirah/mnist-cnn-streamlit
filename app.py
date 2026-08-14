@@ -155,7 +155,7 @@ st.markdown(
 st.divider()
 
 KSERVE_URL = (
-    "https://faced-defense-youth-institutions.trycloudflare.com"
+    "https://beef-tobacco-dir-determines.trycloudflare.com"
     "/v1/models/mnist-cnn:predict"
 )
 # KSERVE_URL = (
